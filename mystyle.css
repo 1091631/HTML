@@ -1,0 +1,49 @@
+
+
+h1{
+Text-align:center;color:red;}
+p {
+Text-align:center;color:brown;
+Text-transform:uppercase;
+Text-indent:20 px;
+Text-decoration:underline; 
+Word-spacing:normal;
+font-family:times new roman;
+Font-family :Arial;
+font-size:5;
+Font-style:normal; 
+Font-weight:Bold; 
+Font –variant:normal;}
+<style>
+Body{background-image:url("marguerite.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+</style> 
+}
+
+
+
+<!--references-->
+Text- align : left, right, center, justify
+Text- transform : uppercase, lowercase , capitalize
+Text-indent : 2em or 20 px
+Text-decoration : underline , over line, line-through 
+Word-spacing : Normal or length
+
+Font - family : Calibri , Arial etc 
+font – size : 5
+Font-style : Normal or italic 
+Font- weight : Bold 
+Font – variant : small-caps or normal
+
+<style>
+body  {
+  background-image: url("img_tree.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+
+Body{background-image:url("marguerite.jpg");
+background-position:top center;
